@@ -1,0 +1,20 @@
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Windows Pony.dll
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Windows Pony.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\AppManifest.xaml
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Windows_Pony_Debug_AnyCPU.xap
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\App.g.cs
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\MainPage.g.cs
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows Pony.g.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows_Pony.Resources.AppResources.resources
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows Pony.csproj.GenerateResource.Cache
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows Pony.dll
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows Pony.pdb
+c:\users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\XapCacheFile.xml
+C:\Users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\Bin\Debug\Venetasoft.WP.Net.SMTP.dll
+C:\Users\pablohenrique\documents\visual studio 2012\Projects\Windows Pony\Windows Pony\obj\Debug\Windows Pony.csprojResolveAssemblyReference.cache
