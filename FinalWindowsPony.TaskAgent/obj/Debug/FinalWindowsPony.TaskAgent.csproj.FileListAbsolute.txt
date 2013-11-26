@@ -1,0 +1,8 @@
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\Bin\Debug\FinalWindowsPony.TaskAgent.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\Bin\Debug\FinalWindowsPony.TaskAgent.pdb
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\obj\Debug\FinalWindowsPony.TaskAgent.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\obj\Debug\FinalWindowsPony.TaskAgent.pdb
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\Bin\Debug\FinalWIndowsPony.Core.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\Bin\Debug\Venetasoft.WP.Net.SMTP.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\Bin\Debug\FinalWIndowsPony.Core.pdb
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWindowsPony.TaskAgent\obj\Debug\FinalWindowsPony.TaskAgent.csprojResolveAssemblyReference.cache

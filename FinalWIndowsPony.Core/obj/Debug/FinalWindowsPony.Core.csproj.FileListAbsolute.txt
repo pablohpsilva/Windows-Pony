@@ -1,0 +1,5 @@
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWIndowsPony.Core\Bin\Debug\FinalWIndowsPony.Core.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWIndowsPony.Core\Bin\Debug\FinalWIndowsPony.Core.pdb
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWIndowsPony.Core\Bin\Debug\Venetasoft.WP.Net.SMTP.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWIndowsPony.Core\obj\Debug\FinalWIndowsPony.Core.dll
+C:\Users\pablohenrique\Documents\GitHub\WindowsPhone\FinalWindowsPony\FinalWIndowsPony.Core\obj\Debug\FinalWIndowsPony.Core.pdb
